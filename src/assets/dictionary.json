@@ -1,0 +1,30 @@
+{
+    "en": {
+      "translation": {
+        "Hello": "Welcome to the Country Info",
+        "Search for a country...": "Search for a country...",
+        "Population": "Population",
+        "Region": "Region",
+        "Capital": "Capital"
+      }
+    },
+    "ru": {
+      "translation": {
+        "Hello": "Добро пожаловать в Country Info",
+        "Search for a country...": "Искать страну...",
+        "Population": "Население",
+        "Region": "Регион",
+        "Capital": "Столица"
+      }
+    },
+    "uz": {
+      "translation": {
+        "Hello": "Country Info ga xush kelibsiz",
+        "Search for a country...": "Davlatni qidiring...",
+        "Population": "Aholi",
+        "Region": "Hudud",
+        "Capital": "Poytaxt"
+      }
+    }
+  }
+  
