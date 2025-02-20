@@ -5,7 +5,7 @@ import usa from "../assets/image/usa.jpg";
 import brazil from "../assets/image/brazil.png";
 import iceland from "../assets/image/iceland.png";
 import afghanistan from "../assets/image/afghanistan.png";
-import alandislands from "../assets/image/alandislands.png";
+import alandislands from "../assets/image/alandIslands.png";
 import algeria from "../assets/image/algeria.png";
 import albania from "../assets/image/albania.png";
 
